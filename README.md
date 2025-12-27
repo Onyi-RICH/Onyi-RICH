@@ -1,46 +1,60 @@
-# 👋 Hi, I’m Onyinyechi Ugba (Onyi)
+Onyi-RICH/README.md
 
-📍 Göttingen, Germany  
-📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Data Engineer  
-🌍 Finance • Public Sector • Open Data • Social Impact  
+# 👋 Hi, I’m Onyinyechi Ugba (Onyi)
+---
+Welcome to my GitHub space! 
+📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Junior Data Engineer  
+🌍 Finance • Public Sector • Research • Open Data • Social Impact  
 
 ---
 
 ## 🚀 About Me
 
-Hi! I’m **Onyi**, a data professional with **6+ years of experience** across financial data management, analytics, and data engineering — complemented by advanced training in **Data Science, Machine Learning, and ETL systems**.
+I am a **data professional with 6+ years of experience** across financial data management, analytics, and business intelligence, combined with **advanced training in Data Science, Machine Learning, and Data Engineering.**
 
-My journey started in finance and operations, where data accuracy and accountability mattered deeply. Over time, I transitioned into more technical roles, building **end-to-end data pipelines**, **machine learning models**, and **analytics solutions** that improve data quality, operational efficiency, and decision-making.
+My journey started in finance and operations, where data accuracy and accountability mattered deeply. Over time, I transitioned into building **end-to-end data pipelines, machine learning models,** and **analytics solutions** that improve data quality, operational efficiency, and decision-making.
 
-I describe myself as a **data detective** 🕵️‍♀️ — curious, detail-oriented, and motivated by connecting technical insights to real-world impact. I enjoy working at the intersection of **data, business, and engineering**, making complex information actionable for stakeholders.
+I describe myself as a **data detective** 🕵️‍♀️ — curious, detail-oriented, and motivated by connecting technical insights to real-world impact. I enjoy working at the intersection of data, business, and engineering, making complex information actionable for stakeholders.
 
-Currently finishing a **data internship at Webeet.io**, and **open to full-time opportunities** in **Data Analytics, Data Science, or Data Engineering** across Germany.
+My background is grounded in **Statistics and Economics**, with hands-on experience in **predictive modeling, NLP/LLM applications, database architecture, and large-scale data** using **Python and SQL**. I value **rigorous methodology, reproducibility, and clarity**, translating insights for both technical and non-technical audiences.
+I recently **completed a Data Science certification** and am currently based in Germany, seeking **immediate full-time opportunities** in **data-driven or research-oriented environments**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Core Skills & Technologies
 
-### Languages & Libraries
-- **Python**: pandas, NumPy, scikit-learn, XGBoost, LightGBM, SHAP, Matplotlib, Seaborn  
-- **SQL**: PostgreSQL, MySQL  
-- **NLP/LLM & ML**: TF-IDF, NLTK, classification, regression, clustering, time series  
+### Programming & Data Analysis
+- **Python**: pandas, NumPy, scikit-learn, XGBoost, LightGBM, SHAP
+- **SQL**: PostgreSQL, MySQL
+- Jupyter Notebooks
 
-### Data Engineering & Platforms
-- **ETL / ELT** pipelines  
-- **PostgreSQL**, SQLite  
-- **Apache Airflow**, Docker  
-- REST APIs (GitHub API, Nominatim)  
-- GeoPandas & geospatial data handling  
+### Machine Learning & Analytics
+- Predictive Modeling (Regression, Classification)
+- Time Series & Forecasting
+- NLP / LLM fundamentals (TF-IDF, NLTK)
+- Feature Engineering
+- Model Evaluation & Validation
+- A/B Testing & Experimental Design
+
+### Data Engineering & MLOps
+- ETL / ELT pipelines
+- Database design & population
+- **Apache Airflow (DAGs)**
+- **Docker**
+- REST APIs (GitHub API, Nominatim)
+- Data quality checks & schema validation
 
 ### Visualization & BI
-- **Tableau** (dashboards & storytelling)  
-- Excel (advanced analysis)  
-- Power BI (basic)  
+- **Tableau** (dashboards & data storytelling)
+- Matplotlib, Seaborn
+- Excel (advanced)
+- Power BI (basic)
 
-### Other
-- Git & GitHub (branches, PRs, reviews)  
-- Data quality validation & schema design  
-
+### Research & Statistics
+- Statistical analysis & hypothesis testing
+- KPI & metrics design
+- Reproducible research workflows
+- 
 ---
 
 ## 🌟 Featured Projects
@@ -76,42 +90,42 @@ Currently finishing a **data internship at Webeet.io**, and **open to full-time 
 
 ## 🤖 Machine Learning Projects
 
-- **Credit Risk Assessment**  
-  XGBoost classifier (AUC-ROC 0.767), SMOTE, SHAP interpretability  
 
-- **Retail Demand Forecasting**  
-  Time-series forecasting using XGBoost with lag & seasonal features  
-
-- **E-commerce ETA Prediction**  
-  LightGBM regression with SHAP-based explainability  
-
-- **Vehicle Classification**  
-  Hybrid clustering + supervised ML (92% accuracy)  
-
-- **Disaster Tweet Classification (NLP)**  
-  TF-IDF + ensemble models (83% accuracy)  
-
----
-
-## 📚 Education
-
-**Masterschool – Data Science Certification Programm **  
-*Berlin | 2024 – 2025*  
-Machine Learning, NLP, Computer Vision, Tableau, Data Engineering  
-
-**M.Sc. Economics**  
-University of Nigeria, Nsukka  
-
-**B.Sc. Statistics & Economics**  
-University of Nigeria, Nsukka  
-
+- Customer retention & churn analysis  
+- Sales forecasting & demand modeling  
+- Credit risk & loan approval prediction  
+- NLP / LLM-based text analysis  
+- End-to-end ML & analytics pipelines  
+- Open data & public-sector analytics
+  
 ---
 
 ## 🌱 Currently Learning
 - Advanced data modeling & ML optimization  
 - Scalable data engineering architectures  
-- Cloud-ready analytics pipelines  
+- Cloud-ready analytics pipelines
+- Professional German communication (B2 → C1)
 
+---
+
+## Open to Opportunities
+
+I am actively seeking **full-time roles** such as:
+
+- **Data Analyst**
+- **Data Scientist**
+- **Research Data Analyst**
+- **Scientific / Research Assistant (Data-focused)**
+- **Junior Data Engineer**
+- **Analytics Engineer**
+- **Business Intelligence Analyst**
+-  **Machine Learning Specialist**
+
+Particularly within:
+- Research institutions (e.g., **Max Planck Institutes, universities, GWDG**)
+- Applied research & life sciences
+- Technology and data-driven organizations
+  
 ---
 
 ## 🌐 Let’s Connect
@@ -119,6 +133,13 @@ University of Nigeria, Nsukka
 📧 Email: **onyi.ugba@outlook.com**  
 💼 LinkedIn: [linkedin.com/in/onyi-ugba](https://linkedin.com/in/onyi-ugba)  
 💻 GitHub: [github.com/Onyi-RICH](https://github.com/Onyi-RICH)
+
+---
+
+### 🔎 Keywords (for Recruiters & Search)
+`Data Analyst` `Data Scientist` `Research Data` `Python` `SQL` `Machine Learning`  
+`Statistics` `Economics` `ETL` `Airflow` `Docker` `NLP` `LLM`  
+`Predictive Modeling` `Germany`
 
 ---
 
