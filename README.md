@@ -3,7 +3,7 @@ Onyi-RICH/README.md
 # 👋 Hi, I’m Onyinyechi Ugba (Onyi)
 ---
 Welcome to my GitHub space! 
-📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Junior Data Engineer  
+📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Data Engineer  
 🌍 Finance • Public Sector • Research • Open Data • Social Impact  
 
 ---
@@ -116,7 +116,7 @@ I am actively seeking **full-time roles** such as:
 - **Data Scientist**
 - **Research Data Analyst**
 - **Scientific / Research Assistant (Data-focused)**
-- **Junior Data Engineer**
+- **Data Engineer**
 - **Analytics Engineer**
 - **Business Intelligence Analyst**
 -  **Machine Learning Specialist**
