@@ -3,7 +3,9 @@ Onyi-RICH/README.md
 # 👋 Hi, I’m Onyinyechi Ugba (Onyi)
 ---
 Welcome to my GitHub space! 
-📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Data Engineer  
+
+📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Data Engineer
+
 🌍 Finance • Public Sector • Research • Open Data • Social Impact  
 
 ---
@@ -133,12 +135,13 @@ Particularly within:
 📧 Email: **onyi.ugba@outlook.com**  
 💼 LinkedIn: [linkedin.com/in/onyi-ugba](https://linkedin.com/in/onyi-ugba)  
 💻 GitHub: [github.com/Onyi-RICH](https://github.com/Onyi-RICH)
+🌍 Portfolio: [onyinyechi-ugba-portfolio.vercel.app](https://onyinyechi-ugba-portfolio.vercel.app/)
 
 ---
 
 ### 🔎 Keywords (for Recruiters & Search)
 `Data Analyst` `Data Scientist` `Research Data` `Python` `SQL` `Machine Learning`  
-`Statistics` `Economics` `ETL` `Airflow` `Docker` `NLP` `LLM`  
+`Statistics` `Economics` `ETL` `Airflow` `Docker` `NLP` `LLM`  `Data Engineer` `Business Intelligence`
 `Predictive Modeling` `Germany`
 
 ---
