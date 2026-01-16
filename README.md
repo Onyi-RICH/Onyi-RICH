@@ -1,47 +1,50 @@
 Onyi-RICH/README.md
 
 # 👋 Hi, I’m Onyinyechi Ugba (Onyi)
----
-Welcome to my GitHub space! 
 
-📊 Data Professional | 🤖 Machine Learning Specialist | 🛠 Data Engineer
+Welcome to my GitHub space!  — a collection of data, analytics, and AI projects focused on **clarity, impact, and reproducibility**.
 
+📊 **Data Professional** | 🤖 **Machine Learning & LLM Practitioner** | 🛠 **Data Engineer**  
 🌍 Finance • Public Sector • Research • Open Data • Social Impact  
 
 ---
 
 ## 🚀 About Me
 
-I am a **data professional with 6+ years of experience** across financial data management, analytics, and business intelligence, combined with **advanced training in Data Science, Machine Learning, and Data Engineering.**
+I am a **data professional with 6+ years of experience** spanning financial data management, analytics, and business intelligence, complemented by **advanced training in Data Science, Machine Learning, and Data Engineering**.
 
-My journey started in finance and operations, where data accuracy and accountability mattered deeply. Over time, I transitioned into building **end-to-end data pipelines, machine learning models,** and **analytics solutions** that improve data quality, operational efficiency, and decision-making.
+My career began in finance and operations, where **data accuracy, governance, and accountability**  mattered deeply. Over time, I transitioned into designing and building **end-to-end data pipelines, machine learning models, and analytics systems** that improve data quality, operational efficiency, and decision-making.
 
-I describe myself as a **data detective** 🕵️‍♀️ — curious, detail-oriented, and motivated by connecting technical insights to real-world impact. I enjoy working at the intersection of data, business, and engineering, making complex information actionable for stakeholders.
+I describe myself as a **data detective** 🕵️‍♀️ — curious, detail-oriented, and motivated by uncovering patterns that matter. I enjoy working at the intersection of **data, engineering, and business**, translating complex information into insights that stakeholders can trust and act on.
 
-My background is grounded in **Statistics and Economics**, with hands-on experience in **predictive modeling, NLP/LLM applications, database architecture, and large-scale data** using **Python and SQL**. I value **rigorous methodology, reproducibility, and clarity**, translating insights for both technical and non-technical audiences.
-I recently **completed a Data Science certification** and am currently based in Germany, seeking **immediate full-time opportunities** in **data-driven or research-oriented environments**.
+My foundation is rooted in **Statistics and Economics**, with hands-on experience in **predictive modeling, NLP/LLM applications, database architecture, and large-scale data processing** using **Python and SQL**. I value **rigorous methodology, reproducibility, and clear communication**, especially when working with both technical and non-technical audiences.
+
+I recently completed a **Data Science certification** and am currently based in **Germany**, actively seeking **immediate full-time opportunities** in **data-driven, AI-focused, or research-oriented environments**.
+
+---
+
+## 🛠️ Core Skills & Technologies
 
 ---
 
 ## 🛠️ Core Skills & Technologies
 
 ### Programming & Data Analysis
-- **Python**: pandas, NumPy, scikit-learn, XGBoost, LightGBM, SHAP
-- **SQL**: PostgreSQL, MySQL
+- **Python**: pandas, NumPy, scikit-learn, XGBoost, LightGBM, SHAP)
+- **SQL** (PostgreSQL)
 - Jupyter Notebooks
 
 ### Machine Learning & Analytics
 - Predictive Modeling (Regression, Classification)
 - Time Series & Forecasting
-- NLP / LLM fundamentals (TF-IDF, NLTK)
-- Feature Engineering
-- Model Evaluation & Validation
+- NLP & LLM Fundamentals (TF-IDF, embeddings, prompt-based QA)
+- Feature Engineering & Model Evaluation
 - A/B Testing & Experimental Design
 
 ### Data Engineering & MLOps
 - ETL / ELT pipelines
 - Database design & population
-- **Apache Airflow (DAGs)**
+- **Apache Airflow (DAGs orchestration)**
 - **Docker**
 - REST APIs (GitHub API, Nominatim)
 - Data quality checks & schema validation
@@ -61,6 +64,17 @@ I recently **completed a Data Science certification** and am currently based in 
 
 ## 🌟 Featured Projects
 
+### 🛡️ PolicyAudit RAG Engine — Explainable Policy AI
+- Built a **Retrieval-Augmented Generation (RAG)** system using **Google Gemini + ChromaDB**
+- Converts insurance PDFs into a searchable knowledge base
+- Returns **exact source-backed answers** with cited text snippets
+- Includes an interactive **Streamlit UI**
+  
+**Tech:** Python, LangChain, Google Gemini, ChromaDB, Streamlit  
+👉 [View Repository](https://github.com/OnyiUgba/PolicyAudit-rag-engine)
+
+---
+
 ### 📚 Berlin Libraries — OSM ETL Pipeline
 - Built **ETL pipelines** ingesting OpenStreetMap data into PostgreSQL  
 - Enriched addresses using **Nominatim API** (60% → 95% completeness)  
@@ -73,19 +87,23 @@ I recently **completed a Data Science certification** and am currently based in 
 ---
 
 ### 🐙 GitHub Issues ETL Platform
-- Designed a **production-grade Airflow pipeline** (Dockerized)  
+- Built a **production-grade, Dockerized Airflow pipeline**
 - Incremental extraction using watermarking  
 - Modeled nested GitHub API data into analytics-ready tables  
 - Implemented idempotent writes & retry-safe pipelines  
+
 **Tech:** Python, Airflow, Docker, PostgreSQL, SQLAlchemy  
+
+👉 [View Repository](https://github.com/OnyiUgba/github-issues-airflow-etl)
 
 ---
 
-### 🏫 NYC Schools Data Pipeline (Webeet Internship)
+### 🏫 NYC Schools Data Pipeline 
 - End-to-end ETL from CSV → PostgreSQL  
-- Data cleaning, validation, schema design  
+- Data cleaning, validation, and schema design
 - SQL analysis via Python notebooks  
-- Practiced GitHub collaboration workflows  
+- Practiced collaborative GitHub workflows
+
 **Tech:** Python, SQL, PostgreSQL, GitHub, Google Sheets  
 
 ---
@@ -104,15 +122,15 @@ I recently **completed a Data Science certification** and am currently based in 
 
 ## 🌱 Currently Learning
 - Advanced data modeling & ML optimization  
-- Scalable data engineering architectures  
-- Cloud-ready analytics pipelines
+- Scalable and cloud-ready data architectures
+- AI-assisted document analysis (RAG systems)
 - Professional German communication (B2 → C1)
 
 ---
 
 ## Open to Opportunities
 
-I am actively seeking **full-time roles** such as:
+I am actively seeking **full-time roles**, including:
 
 - **Data Analyst**
 - **Data Scientist**
@@ -120,13 +138,12 @@ I am actively seeking **full-time roles** such as:
 - **Scientific / Research Assistant (Data-focused)**
 - **Data Engineer**
 - **Analytics Engineer**
-- **Business Intelligence Analyst**
 -  **Machine Learning Specialist**
 
 Particularly within:
 - Research institutions (e.g., **Max Planck Institutes, universities, GWDG**)
 - Applied research & life sciences
-- Technology and data-driven organizations
+- Technology-driven and impact-focused/ data-driven organizations
   
 ---
 
@@ -134,14 +151,14 @@ Particularly within:
 
 📧 Email: **onyi.ugba@outlook.com**  
 💼 LinkedIn: [linkedin.com/in/onyi-ugba](https://linkedin.com/in/onyi-ugba)  
-💻 GitHub: [github.com/Onyi-RICH](https://github.com/Onyi-RICH)
-🌍 Portfolio: [onyinyechi-ugba-portfolio.vercel.app](https://onyinyechi-ugba-portfolio.vercel.app/)
+💻 GitHub: [github.com/Onyi-RICH](https://github.com/Onyi-RICH)  
+🌍 Portfolio: [onyinyechi-ugba-portfolio.vercel.app](https://onyinyechi-ugba-portfolio.vercel.app)
 
 ---
 
 ### 🔎 Keywords (for Recruiters & Search)
-`Data Analyst` `Data Scientist` `Research Data` `Python` `SQL` `Machine Learning`  
-`Statistics` `Economics` `ETL` `Airflow` `Docker` `NLP` `LLM`  `Data Engineer` `Business Intelligence`
+`Data Analyst` `Data Scientist` `Data Engineer` `Machine Learning`  
+`Python` `SQL` `ETL` `Airflow` `Docker` `LLM` `RAG` `Statistics` `Economics` `Research Data` `Business Intelligence`
 `Predictive Modeling` `Germany`
 
 ---
