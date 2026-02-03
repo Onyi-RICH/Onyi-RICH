@@ -71,8 +71,7 @@ I recently completed a **Data Science certification** and am currently based in 
 - Includes an interactive **Streamlit UI**
   
 **Tech:** Python, LangChain, Google Gemini, ChromaDB, Streamlit  
-👉 [View Repository](https://github.com/OnyiUgba/PolicyAudit-rag-engine)
-
+👉 [View Repository]([https://github.com/OnyiUgba/PolicyAudit-rag-engine])
 ---
 
 ### 📚 Berlin Libraries — OSM ETL Pipeline
@@ -82,7 +81,7 @@ I recently completed a **Data Science certification** and am currently based in 
 - Standardized contact, address, and geometry fields  
 **Tech:** Python, Pandas, GeoPandas, PostgreSQL, SQL, APIs
   
-👉 [View Repository](https://github.com/OnyiUgba/berlin-libraries-osm-etl)
+👉 [View Repository]([https://github.com/OnyiUgba/berlin-libraries-osm-etl])
 
 ---
 
@@ -94,7 +93,7 @@ I recently completed a **Data Science certification** and am currently based in 
 
 **Tech:** Python, Airflow, Docker, PostgreSQL, SQLAlchemy  
 
-👉 [View Repository](https://github.com/OnyiUgba/github-issues-airflow-etl)
+👉 [View Repository]([https://github.com/OnyiUgba/github-issues-airflow-etl])
 
 ---
 
