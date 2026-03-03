@@ -7,7 +7,7 @@ AI • Data Pipelines • Explainable Systems • Public-Sector Applications
 
 ## About Me
 
-I am a **data professional with 6+ years of experience** across financial data management, analytics, and business intelligence, complemented by hands-on work in **data engineering, machine learning, and explainable AI systems**.
+I am a **data professional with several years of experience** across financial data management, analytics, and business intelligence, complemented by hands-on work in **data engineering, machine learning, and explainable AI systems**.
 
 My work focuses on building **reliable, transparent, and reproducible data and AI solutions**, particularly for environments where **data quality, auditability, and accountability** are critical. I enjoy working at the intersection of **data, engineering, and decision-making**, translating complex information into systems stakeholders can trust.
 
